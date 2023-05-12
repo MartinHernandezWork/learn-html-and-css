@@ -1,8 +1,15 @@
 @font-face {
     src: url("Corleone.ttf");
     font-family: Corleone;
+
+    src: url("Death Star.otf");
+    font-family: Star-Wars;
 }
 
-h1 {
-    
+.first {
+    font-family: Corleone;
+}
+
+.second {
+    font-family: Star-Wars;
 }
