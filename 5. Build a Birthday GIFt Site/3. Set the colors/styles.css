@@ -8,11 +8,14 @@ white: #ffffff
 */
 
 body {
+    background: #a2d2ff;
+    color: #ffffff;
     text-align: center;
     font-family: 'Happy Monkey', cursive;
 }
 
 #bff-img {
+    border: 6px solid #EFB0C9;
     width: 150px;
     border-radius: 50%;
 }
