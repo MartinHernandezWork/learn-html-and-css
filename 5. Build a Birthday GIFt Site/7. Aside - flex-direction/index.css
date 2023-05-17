@@ -6,16 +6,17 @@
     Follow my orders on where we should
     leave our lab equipment!
     
-    justify-content:
+    justify-content (y) :
     start, center, end, space-around, 
     space-evenly, space-between
     
-    align-items:
+    align-items (x) :
     start, center, end
     */
     display: flex;
+    flex-direction: column;
     justify-content: start;
-    align-items: start;
+    align-items: center;
 }
 
 .item {
